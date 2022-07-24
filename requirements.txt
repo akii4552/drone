@@ -1,0 +1,9 @@
+opencv-python-headless
+streamlit-webrtc==0.42.0
+streamlit==1.11.0
+
+
+
+
+
+
